@@ -1,2 +1,4 @@
 # show-pi
-Show the digits of pi in a fun way via terminal output
+Show the digits of π in a fun way via terminal output.
+
+Intended to be run as part of a demonstration about the number π. Zoom in your terminal, run show_pi.py and watch in amazement as the number gets longer and longer, faster and faster!
