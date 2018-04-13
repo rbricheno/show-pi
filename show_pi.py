@@ -16,3 +16,4 @@ while(True):
     print(next(mypi), end="")
     sys.stdout.flush()
     sleep(interval)
+
